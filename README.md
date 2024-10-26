@@ -1,23 +1,21 @@
 GIT README
 
 
-<h1 align="center">Hi 👋, I'm Rus</h1>
-<h3 align="center">Student at HIVE Helsinki</h3>
+# 💫 About Me:
+Hi 👋 I'm Rus<br>Student at HIVE Helsinki
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lnemenl&label=Profile%20views&color=0e75b6&style=flat" alt="lnemenl" /> </p>
 
-- 🔭 I’m currently working on **Minitalk**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/889160103809417316) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ruslankhakimullin/) 
 
-- 🌱 I’m currently learning **coding fundamentals**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lnemenl&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lnemenl&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lnemenl&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **ruslankhakimulin@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=lnemenl&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ruslankhakimullin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruslankhakimullin/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lnemenl&show_icons=true&locale=en&layout=compact" alt="lnemenl" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
