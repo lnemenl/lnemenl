@@ -1,6 +1,3 @@
-GIT README
-
-
 # 💫 About Me:
 Hi 👋 I'm Rus<br>Student at HIVE Helsinki
 
