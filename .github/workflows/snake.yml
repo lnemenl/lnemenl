@@ -23,7 +23,7 @@ jobs:
         with:
           github_user_name: lnemenl
           outputs: |
-            dist/github-snake.svg?color_snake=%23F38BA8&color_dots=%2345475A,%23585B70,%236C7086,%23A6ADC8,%23CDD6F4
+            dist/github-snake.svg?color_snake=%237B2CBF&color_dots=%231A1B26,%232A2E3F,%234B5263,%237B2CBF,%23A68AFC
 
       - name: Verify file exists
         run: ls -la dist/ && cat dist/github-snake.svg || echo "File not found"
