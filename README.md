@@ -10,7 +10,7 @@ Powered by [![](https://img.shields.io/badge/Tea-%23CBA6F7?style=flat&labelColor
 ![C](https://skillicons.dev/icons?i=c) ![JS](https://skillicons.dev/icons?i=js) ![C++](https://skillicons.dev/icons?i=cpp) ![Git](https://skillicons.dev/icons?i=git) ![Terminal](https://skillicons.dev/icons?i=bash)
 
 # 📊 GitHub Pulse:  
-![Stats](https://greptile-stats.vercel.app/api/widget/lnemenl/private-stats?bg_color=1E1E2E&text_color=CDD6F4)  
+![Stats](https://github-readme-stats.vercel.app/api?username=lnemenl&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&text_color=CDD6F4)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnemenl&layout=compact&theme=catppuccin_mocha&hide_border=true)
 
 # 🔭 Focus & Quests:  
@@ -20,7 +20,5 @@ Learning the full scope of programming, one step at a time.
 
 # ✨ Highlights:  
 ![Quirk](https://greptile-stats.vercel.app/api/widget/lnemenl/quirk?bg_color=1E1E2E&text_color=CDD6F4)  
-![Highlights](https://greptile-stats.vercel.app/api/widget/lnemenl/highlights?bg_color=1E1E2E&text_color=CDD6F4)
-
 ---
-![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flnemenl&count_bg=%23F38BA8&title_bg=%231E1E2E&icon=&title=Visits&edge_flat=true)
+![Visits](https://komarev.com/ghpvc/?username=lnemenl&color=FAB387&style=flat&label=Views)  
