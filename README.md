@@ -11,7 +11,6 @@ Powered by [![Tea](https://img.shields.io/badge/Tea-%23CBA6F7?style=flat&labelCo
 
 # 📊 GitHub Pulse:  
 ![Stats](https://github-readme-stats.vercel.app/api?username=lnemenl&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&text_color=CDD6F4&hide_rank=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnemenl&layout=compact&theme=catppuccin_mocha&hide_border=true)
 
 # 🔭 Focus & Quests:  
 Exploring **Web3 & blockchain**—gearing up for an Ethereum bootcamp down the line.  
