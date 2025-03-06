@@ -1,6 +1,6 @@
 # Vibe Check
 Hi 👋 I’m Rus<br>
-![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&color=CBA6F7&background=1E1E2E&width=122&height=20&lines=Code+whisperer) | Student @ HIVE Helsinki | Bootcamping JS, soon C++ @ 42<br>
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&color=CBA6F7&background=1E1E2E&width=118&height=20&lines=Code+whisperer) | Student @ HIVE Helsinki | Bootcamping JS, soon C++ @ 42<br>
 Powered by [![Tea](https://img.shields.io/badge/Tea-%23CBA6F7?style=flat&labelColor=%231E1E2E&color=%23CBA6F7)](https://en.wikipedia.org/wiki/Tea 'Because coffee’s overrated')
 
 ## 🌐 Socials:  
