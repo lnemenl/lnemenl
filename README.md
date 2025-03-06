@@ -19,5 +19,5 @@ Learning the full scope of programming, one step at a time.
 
 # ✨ Highlights:  
 ![Quirk](https://greptile-stats.vercel.app/api/widget/lnemenl/quirk?bg_color=1E1E2E&text_color=CDD6F4)  
-![Visits](https://komarev.com/ghpvc/?username=lnemenl&color=CBA6F7&style=flat&label=Views)
+![Visits](https://komarev.com/ghpvc/?username=lnemenl&color=CBA6F7&style=flat&label=Views)  
 ![Snake Animation](https://github.com/lnemenl/lnemenl/blob/output/github-snake.svg)
