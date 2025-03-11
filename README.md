@@ -1,4 +1,4 @@
-# Vibe Check
+# Whoami
 Hi 👋 I’m Rus<br>
 ![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&color=CBA6F7&background=1E1E2E&width=118&height=20&lines=Code+whisperer) | Student @ `HIVE Helsinki` | Bootcamping JS, soon `C++` @ `42`<br>
 Exploring `web3 & blockchain`—gearing up for an Ethereum bootcamp down the line.  
