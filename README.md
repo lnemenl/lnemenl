@@ -1,6 +1,7 @@
 # whoami
 Hi, I’m Ruslan  
 A student at [![HIVE Helsinki](https://img.shields.io/badge/HIVE_Helsinki-000000?style=flat&logo=42&logoColor=white)](https://www.hive.fi/en/) | Bootcamping JS, soon `C++`  
+
 Exploring `web3 & blockchain` and gearing up for an Ethereum bootcamp.  
 Passionate about decentralized tech and building the future of the internet.  
 Currently building a graphical project at `HIVE`.
