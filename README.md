@@ -12,5 +12,5 @@ Currently building a graphical project at `HIVE`.
 [Philosophers](https://github.com/lnemenl/Philosophers) - A multi-threaded journey into the classic dining philosophers problem  
 [Minitalk](https://github.com/lnemenl/Minitalk) - A signal-based communication program that transmits messages bit by bit  
 [LibftX](https://github.com/lnemenl/LibftX) - An extended and upgraded version of the original 42 Libft project  
-[get_next_line](https://github.com/lnemenl/get_next_line) - A function that reads and returns a line from a file descriptor. Handles reading text files or standard input line by line  
+[get_next_line](https://github.com/lnemenl/get_next_line) - A function that reads and returns a line from a file descriptor  
 [ft_printf](https://github.com/lnemenl/ft_printf) - A custom implementation of the printf function in C  
