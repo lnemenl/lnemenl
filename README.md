@@ -6,3 +6,11 @@ Passionate about decentralized tech and building the future of the internet.
 Currently building a graphical project at `HIVE`.
 
 ![C](https://skillicons.dev/icons?i=c) ![JS](https://skillicons.dev/icons?i=js) ![C++](https://skillicons.dev/icons?i=cpp) ![GitHub](https://skillicons.dev/icons?i=github) ![Terminal](https://skillicons.dev/icons?i=bash) ![Linux](https://skillicons.dev/icons?i=linux) ![Solidity](https://skillicons.dev/icons?i=solidity)
+
+## 42 common core
+[Minishell](https://github.com/FPyMEHTAPIU/minishell) - A custom lightweight UNIX shell, think of it as a bash mini-me  
+[Philosophers](https://github.com/lnemenl/Philosophers) - A multi-threaded journey into the classic dining philosophers problem  
+[Minitalk](https://github.com/lnemenl/Minitalk) - A signal-based communication program that transmits messages bit by bit  
+[LibftX](https://github.com/lnemenl/LibftX) - An extended and upgraded version of the original 42 Libft project  
+[get_next_line](https://github.com/lnemenl/get_next_line) - A function that reads and returns a line from a file descriptor. Handles reading text files or standard input line by line  
+[ft_printf](https://github.com/lnemenl/ft_printf) - A custom implementation of the printf function in C  
