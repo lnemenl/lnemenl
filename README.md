@@ -6,5 +6,3 @@ Passionate about decentralized tech and building the future of the internet.
 Currently building a graphical project at `HIVE`.
 
 ![C](https://skillicons.dev/icons?i=c) ![JS](https://skillicons.dev/icons?i=js) ![C++](https://skillicons.dev/icons?i=cpp) ![GitHub](https://skillicons.dev/icons?i=github) ![Terminal](https://skillicons.dev/icons?i=bash) ![Linux](https://skillicons.dev/icons?i=linux) ![Solidity](https://skillicons.dev/icons?i=solidity)
-
-![Visits](https://komarev.com/ghpvc/?username=lnemenl&color=CBA6F7&style=flat&label=Views)
