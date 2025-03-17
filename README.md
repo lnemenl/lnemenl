@@ -19,3 +19,5 @@ Currently building a graphical project at `HIVE`.
 | [LibftX](https://github.com/lnemenl/LibftX) | C |  An extended and upgraded version of the original 42 Libft project |
 | [get_next_line](https://github.com/lnemenl/get_next_line) | C |  A function that reads and returns a line from a file descriptor |
 | [ft_printf](https://github.com/lnemenl/ft_printf) | C |  A custom implementation of the printf function |
+
+![Profile Views](https://komarev.com/ghpvc/?username=lnemenl&color=CBA6F7&style=flat&label=Profile+Views)
