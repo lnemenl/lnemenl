@@ -13,7 +13,7 @@ Currently building a graphical project at `HIVE`.
 ## 42 projects
 | Project | Language | Description |
 |---------|------|------------------|
-| [Minishell](https://github.com/FPyMEHTAPIU/minishell) | C | A custom lightweight UNIX shell, think of it as a bash mini-me |
+| [Minishell](https://github.com/lnemenl/minishell) | C | A custom lightweight UNIX shell, think of it as a bash mini-me |
 | [Philosophers](https://github.com/lnemenl/Philosophers) | C |  A multi-threaded journey into the classic dining philosophers problem |
 | [Minitalk](https://github.com/lnemenl/Minitalk) | C |  A signal-based communication program that transmits messages bit by bit |
 | [LibftX](https://github.com/lnemenl/LibftX) | C |  An extended and upgraded version of the original 42 Libft project |
