@@ -3,7 +3,7 @@ Hi, I’m Ruslan
 A student at [![HIVE Helsinki](https://img.shields.io/badge/HIVE_Helsinki-000000?style=flat&logo=42&logoColor=white)](https://www.hive.fi/en/) | Bootcamping JS, soon `C++`  
 Pursuing Software Engineering at `HIVE` while diving deep into network engineering  
 
-![C](https://skillicons.dev/icons?i=c) ![JS](https://skillicons.dev/icons?i=js) ![C++](https://skillicons.dev/icons?i=cpp) ![GitHub](https://skillicons.dev/icons?i=github) ![Terminal](https://skillicons.dev/icons?i=bash) ![Linux](https://skillicons.dev/icons?i=linux) ![Solidity](https://skillicons.dev/icons?i=solidity)
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![JS](https://skillicons.dev/icons?i=js) ![GitHub](https://skillicons.dev/icons?i=github) ![Terminal](https://skillicons.dev/icons?i=bash) ![Linux](https://skillicons.dev/icons?i=linux)  
 
 
 ## 42 projects
