@@ -1,7 +1,6 @@
 # whoami
 Hi, I’m Ruslan  
-A student at [![HIVE Helsinki](https://img.shields.io/badge/HIVE_Helsinki-000000?style=flat&logo=42&logoColor=white)](https://www.hive.fi/en/) | Bootcamping JS, soon `C++`  
-Pursuing Software Engineering at `HIVE` while diving deep into network engineering  
+A software engineering student at [![HIVE Helsinki](https://img.shields.io/badge/HIVE_Helsinki-000000?style=flat&logo=42&logoColor=white)](https://www.hive.fi/en/) 
 
 ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![GitHub](https://skillicons.dev/icons?i=github) ![Terminal](https://skillicons.dev/icons?i=bash) ![Linux](https://skillicons.dev/icons?i=linux)  
 
