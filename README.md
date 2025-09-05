@@ -12,7 +12,5 @@ A software engineering student at [![HIVE Helsinki](https://img.shields.io/badge
 | [Philosophers](https://github.com/lnemenl/Philosophers) | C |  A multi-threaded journey into the classic dining philosophers problem |
 | [Minitalk](https://github.com/lnemenl/Minitalk) | C |  A signal-based communication program that transmits messages bit by bit |
 | [LibftX](https://github.com/lnemenl/LibftX) | C |  An extended and upgraded version of the original 42 Libft project |
-| [get_next_line](https://github.com/lnemenl/get_next_line) | C |  A function that reads and returns a line from a file descriptor |
-| [ft_printf](https://github.com/lnemenl/ft_printf) | C |  A custom implementation of the printf function |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lnemenl&color=CBA6F7&style=flat&label=Profile+Views)
