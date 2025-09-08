@@ -1,4 +1,3 @@
-### whoami
 Hi, I’m Ruslan, a software engineering student at [![HIVE Helsinki](https://img.shields.io/badge/HIVE_Helsinki-000000?style=flat&logo=42&logoColor=white)](https://www.hive.fi/en/) 
 
 
