@@ -8,6 +8,7 @@ A software engineering student at [![HIVE Helsinki](https://img.shields.io/badge
 ## 42 projects
 | Project | Language | Description |
 |---------|------|------------------|
+| [FT_IRC](https://github.com/lnemenl/ft_irc) | C++ | A multi-client, non-blocking IRC server |
 | [Minishell](https://github.com/lnemenl/minishell) | C | A custom lightweight UNIX shell, think of it as a bash mini-me |
 | [Philosophers](https://github.com/lnemenl/Philosophers) | C |  A multi-threaded journey into the classic dining philosophers problem |
 | [Minitalk](https://github.com/lnemenl/Minitalk) | C |  A signal-based communication program that transmits messages bit by bit |
