@@ -15,4 +15,4 @@ Hi, I’m Ruslan, a software engineering student at [![HIVE Helsinki](https://im
 | [Minitalk](https://github.com/lnemenl/Minitalk.git) | C |  A signal-based communication program that transmits messages bit by bit |
 | [LibftX](https://github.com/lnemenl/LibftX.git) | C |  An extended and upgraded version of the original 42 Libft project |
 
-![Profile Views](https://komarev.com/ghpvc/?username=lnemenl&color=cdd6f4&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=lnemenl&color=7287fd&style=flat&label=Profile+Views)
