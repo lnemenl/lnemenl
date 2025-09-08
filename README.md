@@ -4,7 +4,7 @@ Hi, I’m Ruslan, a software engineering student at [![HIVE Helsinki](https://im
 ![Terminal](https://skillicons.dev/icons?i=bash) ![C++](https://skillicons.dev/icons?i=cpp) ![Docker](https://skillicons.dev/icons?i=docker)  ![GitHub](https://skillicons.dev/icons?i=github) ![Go](https://skillicons.dev/icons?i=go) ![Linux](https://skillicons.dev/icons?i=linux) 
 
 
-### HIVE / 42 projects
+### HIVE Helsinki (42 écoles) projects
 | Project | Language | Description |
 |---------|------|------------------|
 | [FT_IRC](https://github.com/lnemenl/ft_irc.git) | C++ | A multi-client, non-blocking IRC server |
