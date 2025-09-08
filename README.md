@@ -1,11 +1,11 @@
-# whoami
+### whoami
 Hi, I’m Ruslan, a software engineering student at [![HIVE Helsinki](https://img.shields.io/badge/HIVE_Helsinki-000000?style=flat&logo=42&logoColor=white)](https://www.hive.fi/en/) 
 
 
 ![Terminal](https://skillicons.dev/icons?i=bash) ![C++](https://skillicons.dev/icons?i=cpp) ![Docker](https://skillicons.dev/icons?i=docker)  ![GitHub](https://skillicons.dev/icons?i=github) ![Go](https://skillicons.dev/icons?i=go) ![Linux](https://skillicons.dev/icons?i=linux) 
 
 
-## 42 projects
+### HIVE / 42 projects
 | Project | Language | Description |
 |---------|------|------------------|
 | [FT_IRC](https://github.com/lnemenl/ft_irc.git) | C++ | A multi-client, non-blocking IRC server |
