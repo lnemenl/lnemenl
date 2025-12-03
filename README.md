@@ -11,7 +11,7 @@ Focused on building backend services.
 
 | Project | Stack | Overview |
 |:---|:---|:---|
-| [**ft_transcendence**](https://github.com/lnemenl/ft_transcendence) | ![TS](https://skillicons.dev/icons?i=ts&theme=light&perline=3) ![React](https://skillicons.dev/icons?i=react&theme=light) ![Prisma](https://skillicons.dev/icons?i=prisma&theme=light) ![Docker](https://skillicons.dev/icons?i=docker&theme=light) | **Full-Stack Web App.** A real-time SPA featuring 3D gameplay, OAuth2 authentication, 2FA security, and a RESTful API backend. |
+| [**ft_transcendence**](https://github.com/lnemenl/ft_transcendence) | ![TS](https://skillicons.dev/icons?i=ts&theme=light&perline=3) ![React](https://skillicons.dev/icons?i=react&theme=light) ![Prisma](https://skillicons.dev/icons?i=prisma&theme=light) ![Docker](https://skillicons.dev/icons?i=docker&theme=light) | **WIP Full-Stack Web App.** A real-time SPA featuring 3D gameplay, OAuth2 authentication, 2FA security, and a RESTful API backend. |
 
 <br>
 
