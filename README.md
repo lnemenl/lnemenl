@@ -1,5 +1,4 @@
-# Ruslan
-**Software Engineer** | Helsinki, Finland
+### Software Engineer | Helsinki, Finland
 
 Focused on building backend services.
 
