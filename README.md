@@ -1,7 +1,7 @@
 ##### Hi, I’m Ruslan, a software engineering student at [HIVE Helsinki](https://www.hive.fi/en/) 
 
 
-![Terminal](https://skillicons.dev/icons?i=bash) ![C++](https://skillicons.dev/icons?i=cpp) ![Docker](https://skillicons.dev/icons?i=docker)  ![GitHub](https://skillicons.dev/icons?i=github) ![Go](https://skillicons.dev/icons?i=go) ![Linux](https://skillicons.dev/icons?i=linux) 
+[![My Skills](https://skillicons.dev/icons?i=cpp,go,ts,bash,prisma,sqlite,gcp,docker,linux,github)](https://skillicons.dev)
 
 
 ##### HIVE Helsinki (42 écoles) projects
