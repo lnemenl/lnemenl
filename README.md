@@ -1,8 +1,6 @@
 # Ruslan Khakimullin
 **Software Engineer · Backend · Helsinki**
 
-Software Engineering graduate focused on backend architecture, API design, and authentication systems. I bring the ownership and systems thinking of a former Service Manager into engineering. Currently working primarily in **Go** using test-driven development.
-
 ---
 
 ### Technical Stack
