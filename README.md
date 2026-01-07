@@ -1,5 +1,5 @@
 # Ruslan Khakimullin
-**Software Engineer · Backend · Helsinki**
+**Software Engineer · Helsinki**
 
 ---
 
