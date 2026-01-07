@@ -22,7 +22,7 @@
 |:---|:---|
 | [**Online Multiplayer Game**](https://github.com/lnemenl/Online-Multiplayer-Game) | **Full-Stack Architecture.** Real-time SPA featuring **JWT auth**, **Google OAuth2**, and **2FA**. Built with a high-performance **Fastify** backend and scalable **Prisma** database schema. |
 | [**IRC Server**](https://github.com/lnemenl/ft_irc.git) | **Networking & Concurrency.** A multi-client server built from scratch using **non-blocking I/O**, **poll()**, and raw TCP sockets. |
-| [**Unix Shell**](https://github.com/lnemenl/minishell.git) | **Systems Programming.** A custom shell implementation focusing on **process creation (fork/exec)**, signal handling, and manual memory management. |
+| [**Unix Shell**](https://github.com/lnemenl/minishell.git) | **Systems Programming.** A custom shell implementation focusing on **process creation**, signal handling, and manual memory management. |
 | [**Concurrent Resource Simulation**](https://github.com/lnemenl/Philosophers.git) | **Threading & Synchronization.** A simulation solving the Dining Philosophers problem using **threads**, **mutexes**, and deadlock prevention strategies. |
 | [**Signal Communication System**](https://github.com/lnemenl/Minitalk.git) | **UNIX Signals.** A client-server architecture enabling data exchange between processes using only `SIGUSR1` and `SIGUSR2`. |
 
